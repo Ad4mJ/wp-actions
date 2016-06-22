@@ -3,4 +3,4 @@ Wordpress Custom Actions
 
 Include actions.php in functions.php
 
-require get_template_directory() . '/actions/changing-default-email-settings.php'
+require get_template_directory() . '/actions.php'
